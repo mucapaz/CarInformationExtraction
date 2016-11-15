@@ -31,7 +31,6 @@ public class Preprocessor {
 		ArrayList<ArrayList<ArrayList<String>>> ar = new ArrayList<ArrayList<ArrayList<String>>>();
 		
 		for(int x=0;x<files.length;x++){
-			System.out.println(x);
 			ar.add(processInstance(toInstance(files[x])));
 		}
 		
@@ -49,6 +48,8 @@ public class Preprocessor {
 				for(int z=0;z<ar.get(x).get(y).size();z++){
 					if(z!=0)writer.print(" ");
 					writer.print(ar.get(x).get(y).get(z).toLowerCase());
+					
+				
 				}
 					
 				writer.println();	
