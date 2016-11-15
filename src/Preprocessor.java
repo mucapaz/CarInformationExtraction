@@ -1,4 +1,10 @@
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class Preprocessor {
 
@@ -9,6 +15,76 @@ public class Preprocessor {
 	public static final String CAPITALIZED_FEATURE = "capitalized";
 	public static final String PARENTHESIS_FEATURE = "parenthesis";
 
+	
+	public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException{
+		
+		Preprocessor pro = new Preprocessor();
+		pro.generateBaseFromRawBase("base", "baseFile");
+		
+	}
+
+	public void generateBaseFromRawBase(String rawBaseLocation, String baseFileLocation)
+			throws FileNotFoundException, UnsupportedEncodingException{
+		File folder = new File(rawBaseLocation);
+		File files[] = folder.listFiles();
+		
+		ArrayList<ArrayList<ArrayList<String>>> ar = new ArrayList<ArrayList<ArrayList<String>>>();
+		
+		for(int x=0;x<files.length;x++){
+			System.out.println(x);
+			ar.add(processInstance(toInstance(files[x])));
+		}
+		
+		saveBaseFile(ar,baseFileLocation);
+		
+	}
+	
+	public void saveBaseFile(ArrayList<ArrayList<ArrayList<String>>> ar, String baseFileLocation)
+			throws FileNotFoundException, UnsupportedEncodingException{
+		
+		PrintWriter writer = new PrintWriter(baseFileLocation, "UTF-8");
+		
+		for(int x=0;x<ar.size();x++){
+			for(int y=0;y<ar.get(x).size();y++){
+				for(int z=0;z<ar.get(x).get(y).size();z++){
+					if(z!=0)writer.print(" ");
+					writer.print(ar.get(x).get(y).get(z).toLowerCase());
+				}
+					
+				writer.println();	
+			}
+			writer.println();
+		}
+		
+		writer.flush();
+		writer.close();
+		
+	}
+	
+	public ArrayList<ArrayList<String>> toInstance(File file) throws FileNotFoundException{
+		ArrayList<ArrayList<String>> ar = new ArrayList<ArrayList<String>>();
+		
+		Scanner in = new Scanner(new FileReader(file));
+			
+		String line;
+		String words[];
+		
+		while(in.hasNextLine()){
+			ar.add(new ArrayList<String>());
+			
+			line = in.nextLine();
+			
+			words = line.split(" ");
+			
+			for(String word : words){
+				
+				ar.get(ar.size() -1).add(word);
+			}
+		}	
+		
+		return ar;
+	}
+	
 	/*
 	 * input should in this format:
 	 * 

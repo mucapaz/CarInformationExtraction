@@ -1,0 +1,903 @@
+chevrolet 1 capitalized marca
+meriva 2 capitalized modelo
+maxx 3 capitalized versao
+1.4 4 dot numerical_and_other motor
+(flex) 5 parenthesis capitalized combustivel
+2009 6 numerical ano
+
+fiat 1 capitalized marca
+palio 2 capitalized modelo
+attractive 3 capitalized versao
+1.0 4 dot numerical_and_other cilindradas
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+(flex) 6 parenthesis capitalized combustivel
+2012 7 numerical ano
+
+kia 1 capitalized all_capitalized marca
+sportage 2 capitalized all_capitalized modelo
+2.0 3 dot numerical_and_other cilindradas
+lx 4 capitalized all_capitalized tipo
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+automã�tico 8 capitalized all_capitalized cambio
+
+fiat 1 capitalized marca
+siena 2 capitalized modelo
+el 3 capitalized all_capitalized versao
+1.0 4 dot numerical_and_other cilindradas
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+(flex) 6 parenthesis capitalized combustivel
+2012 7 numerical ano
+
+volkswagen 1 capitalized marca
+gol 2 capitalized modelo
+rallye 3 capitalized versao
+1.6 4 dot numerical_and_other cilindradas
+vht 5 capitalized all_capitalized motor
+(g5) 6 parenthesis capitalized all_capitalized numerical_and_other geracao
+(flex) 7 parenthesis capitalized combustivel
+2012 8 numerical ano
+
+fiat 1 capitalized marca
+500 2 numerical modelo
+cult 3 capitalized versao
+dualogic 4 capitalized cambio
+1.4 5 dot numerical_and_other cilindradas
+8v 6 capitalized all_capitalized numerical_and_other valvulas
+2012 7 numerical ano
+
+chevrolet 1 capitalized marca
+classic 2 capitalized modelo
+ls 3 capitalized all_capitalized versao
+vhc 4 capitalized all_capitalized motor
+e 5 capitalized all_capitalized tipo
+1.0 6 dot numerical_and_other cilindradas
+(flex) 7 parenthesis capitalized combustivel
+2015 8 numerical ano
+
+volkswagen 1 capitalized marca
+voyage 2 capitalized modelo
+1.0 3 dot numerical_and_other cilindradas
+tec 4 capitalized all_capitalized motor
+city 5 capitalized versai
+(flex) 6 parenthesis capitalized combustivel
+2015 7 numerical ano
+
+volkswagen 1 capitalized marca
+gol 2 capitalized modelo
+1.0 3 dot numerical_and_other cilindradas
+tec 4 capitalized all_capitalized motor
+(flex) 5 parenthesis capitalized combustivel
+4p 6 numerical_and_other portas
+2013 7 numerical ano
+
+fiat 1 capitalized marca
+uno 2 capitalized modelo
+way 3 capitalized versao
+1.0 4 dot numerical_and_other cilindradas
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+(flex) 6 parenthesis capitalized combustivel
+4p 7 numerical_and_other portas
+2014 8 numerical ano
+
+volkswagen 1 capitalized marca
+fox 2 capitalized modelo
+1.6 3 dot numerical_and_other cilindradas
+8v 4 capitalized all_capitalized numerical_and_other valvulas
+(flex) 5 parenthesis capitalized combustivel
+2011 6 numerical ano
+
+suzuki 1 capitalized marca
+grand 2 capitalized modelo
+vitara 3 capitalized modelo
+2.0 4 dot numerical_and_other cilindradas
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+special 6 capitalized versao
+edition 7 capitalized versao
+(aut) 8 parenthesis capitalized cambio
+2016 9 numerical ano
+
+fiat 1 capitalized marca
+idea 2 capitalized modelo
+elx	versao 3 capitalized
+1.4 4 dot numerical_and_other motor
+(flex) 5 parenthesis capitalized combustivel
+2010 6 numerical ano
+
+fiat 1 capitalized marca
+toro 2 capitalized modelo
+freedom 3 capitalized versao
+2.0 4 dot numerical_and_other cilindradas
+diesel 5 combustivel
+mt6 6 capitalized all_capitalized numerical_and_other motor
+4x4 7 numerical_and_other tracao
+2017 8 numerical ano
+
+suzuki 1 capitalized marca
+grand 2 capitalized modelo
+vitara 3 capitalized modelo
+2.0 4 dot numerical_and_other cilindradas
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+premium 6 capitalized versao
+4wd 7 capitalized all_capitalized numerical_and_other motor
+(aut) 8 parenthesis capitalized cambio
+2016 9 numerical ano
+
+chevrolet 1 capitalized marca
+cruze 2 capitalized modelo
+ltz 3 capitalized all_capitalized versao
+1.4 4 dot numerical_and_other cilindradas
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+ecotec 6 capitalized motor
+(aut) 7 parenthesis capitalized cambio
+(flex) 8 parenthesis capitalized combustivel
+2017 9 numerical ano
+
+citroen 1 capitalized marca
+c4 2 capitalized all_capitalized numerical_and_other modelo
+picasso 3 capitalized versao
+1.6 4 dot numerical_and_other cilindradas
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+thp 6 capitalized all_capitalized motor
+intensive 7 capitalized versao
+(aut) 8 parenthesis capitalized cambio
+2016 9 numerical ano
+
+citroen 1 capitalized marca
+c4 2 capitalized all_capitalized numerical_and_other modelo
+picasso 3 capitalized versao
+1.6 4 dot numerical_and_other cilindradas
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+thp 6 capitalized all_capitalized motor
+intensive 7 capitalized versao
+(aut) 8 parenthesis capitalized cambio
+2016 9 numerical ano
+
+peugeot 1 capitalized marca
+3008 2 numerical modelo
+1.6 3 dot numerical_and_other cilindradas
+thp 4 capitalized all_capitalized motor
+griffe 5 capitalized versao
+(aut) 6 parenthesis capitalized cambio
+2016 7 numerical ano
+
+citroen 1 capitalized marca
+grand 2 capitalized modelo
+c4 3 capitalized all_capitalized numerical_and_other modelo
+picasso 4 capitalized versao
+seduction 5 capitalized versao
+1.6 6 dot numerical_and_other cilindradas
+16v 7 capitalized all_capitalized numerical_and_other valvulas
+thp 8 capitalized all_capitalized motor
+(aut) 9 parenthesis capitalized cambio
+2016 10 numerical ano
+ 11
+
+mini 1 capitalized all_capitalized marca
+cooper 2 capitalized modelo
+2.0 3 dot numerical_and_other cilindradas
+s 4 capitalized all_capitalized versao
+exclusive 5 capitalized versao
+(aut) 6 parenthesis capitalized cambio
+2p 7 numerical_and_other portas
+2017 8 numerical ano
+
+mitsubishi 1 capitalized marca
+outlander 2 capitalized modelo
+2.0 3 dot numerical_and_other cilindradas
+16v 4 capitalized all_capitalized numerical_and_other valvulas
+cvt 5 capitalized all_capitalized cambio
+2016 6 numerical ano
+
+mitsubishi 1 capitalized marca
+l200 2 capitalized all_capitalized numerical_and_other modelo
+triton 3 capitalized modelo
+sport 4 capitalized versao
+2.4 5 dot numerical_and_other cilindradas
+td 6 capitalized all_capitalized versao
+gls 7 capitalized all_capitalized versao
+4wd 8 capitalized all_capitalized numerical_and_other tracao
+2017 9 numerical ano
+
+citroen 1 capitalized marca
+c3 2 capitalized all_capitalized numerical_and_other modelo
+glx 3 capitalized all_capitalized versao
+1.4 4 dot numerical_and_other motor
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+(flex) 6 parenthesis combustivel
+2012 7 numerical ano
+
+mini 1 capitalized all_capitalized marca
+clubman 2 capitalized modelo
+exclusive 3 capitalized versao
+(aut) 4 parenthesis capitalized cambio
+4p 5 numerical_and_other portas
+2016 6 numerical ano
+
+mitsubishi 1 capitalized marca
+pajero 2 capitalized modelo
+3.2 3 dot numerical_and_other cilindradas
+di-d 4 capitalized all_capitalized  versao
+outdoor 5 capitalized versao
+4wd 6 capitalized all_capitalized numerical_and_other tracao
+(aut) 7 parenthesis capitalized cambio
+2017 8 numerical ano
+
+volkswagen 1 capitalized marca
+gol 2 capitalized modelo
+1.0 3 dot numerical_and_other cilindradas
+tec 4 capitalized all_capitalized motor
+trendline 5 capitalized versao
+(flex) 6 parenthesis capitalized combustivel
+4p 7 numerical_and_other portas
+2015 8 numerical ano
+
+fiat 1 capitalized marca
+mobi 2 capitalized modelo
+evo 3 capitalized versao
+easy 4 capitalized versao
+1.0 5 dot numerical_and_other cilindradas
+(flex) 6 parenthesis capitalized combustivel
+4p 7 numerical_and_other portas
+2017 8 numerical ano
+
+nissan 1 capitalized marcas
+march 2 capitalized modelo
+1.0 3 dot numerical_and_other cilindradas
+12v 4 capitalized all_capitalized numerical_and_other valvulas
+s 5 capitalized all_capitalized versao
+(flex) 6 parenthesis capitalized combustivel
+2015 7 numerical ano
+
+volkswagen 1 capitalized marca
+up! 2 capitalized modelo
+1.0 3 dot numerical_and_other cilindradas
+12v 4 numerical_and_other valvulas
+move-up 5 capitalized versao
+4p 6 numerical_and_other portas
+2015 7 numerical ano
+
+renault 1 capitalized marca
+logan 2 capitalized modelo
+expression 3 capitalized versao
+1.0 4 dot numerical_and_other cilindradas
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+(flex) 6 parenthesis combustivel
+2015 7 numerical ano
+
+renault 1 capitalized marca
+clio 2 capitalized modelo
+expression 3 capitalized versao
+1.0 4 dot numerical_and_other cilindradas
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+(flex) 6 parenthesis capitalized combustivel
+2016 7 numerical ano
+
+fiat 1 capitalized marca
+palio 2 capitalized modelo
+attractive 3 capitalized versao
+1.4 4 dot numerical_and_other cilindradas
+evo 5 capitalized versao
+(flex) 6 parenthesis capitalized combustivel
+2015 7 numerical ano
+
+hyundai 1 capitalized marca
+hb20x 2 capitalized all_capitalized numerical_and_other modelo
+style 3 capitalized versaox
+1.6 4 dot numerical_and_other cilindradas
+2016 5 numerical ano
+
+chevrolet 1 capitalized marca
+celta 2 capitalized modelo
+lt 3 capitalized all_capitalized versao
+1.0 4 dot numerical_and_other motor
+(flex) 5 parenthesis capitalized combustivel
+2014 6 numerical ano
+
+ford 1 capitalized marca
+ka 2 capitalized modelo
+hatch 3 capitalized versao
+se 4 capitalized all_capitalized versao
+1.5 5 dot numerical_and_other cilindradas
+16v 6 numerical_and_other versao
+(flex) 7 parenthesis capitalized combustivel
+2015 8 numerical ano
+
+toyota 1 capitalized marca
+hilux 2 capitalized modelo
+cabine 3 capitalized versao
+dupla 4 capitalized versao
+
+toyota 1 capitalized marca
+hilux 2 capitalized modelo
+cabine 3 capitalized versao
+dupla 4 capitalized versao
+hilux 5 capitalized modelo
+3.0 6 dot numerical_and_other cilindradas
+tdi 7 capitalized all_capitalized versao
+4x4 8 numerical_and_other tracao
+cd 9 capitalized all_capitalized versao
+srv 10 capitalized all_capitalized versao
+2015 11 numerical ano
+
+ford 1 capitalized marca
+ka 2 capitalized modelo
+hatch 3 capitalized modelo
+se 4 capitalized all_capitalized versao
+1.0 5 dot numerical_and_other cilindradas
+(flex) 6 parenthesis capitalized combustivel
+2015 7 numerical ano
+
+ford 1 capitalized marca
+ka 2 capitalized modelo
+hatch 3 capitalized modelo
+se 4 capitalized all_capitalized versao
+1.5 5 dot numerical_and_other cilindradas
+16v 6 numerical_and_other valvulas
+(flex) 7 parenthesis capitalized combustivel
+2015 8 numerical ano
+
+renault 1 capitalized marca
+logan 2 capitalized modelo
+expression 3 capitalized versao
+1.0 4 dot numerical_and_other cilindradas
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+(flex) 6 parenthesis combustivel
+2016 7 numerical ano
+
+jac 1 capitalized all_capitalized marca
+j2 2 capitalized all_capitalized numerical_and_other modelo
+1.4 3 dot numerical_and_other cilindradas
+16v 4 capitalized all_capitalized numerical_and_other valvulas
+vvt 5 capitalized all_capitalized motor
+jetflex 6 capitalized motor
+2016 7 numerical ano
+
+renault 1 capitalized marca
+duster 2 capitalized modelo
+oroch 3 capitalized modelo
+expression 4 capitalized versao
+1.6 5 dot numerical_and_other cilindradas
+16v 6 capitalized all_capitalized numerical_and_other valvulas
+(flex) 7 parenthesis capitalized combustivel
+2016 8 numerical ano
+
+chevrolet 1 capitalized marca
+cobalt 2 capitalized modelo
+ltz 3 capitalized all_capitalized versao
+1.8 4 dot numerical_and_other cilindradas
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+(aut) 6 parenthesis capitalized cambio
+(flex) 7 parenthesis capitalized combustivel
+2015 8 numerical ano
+
+jac 1 capitalized all_capitalized marca
+j3 2 capitalized all_capitalized numerical_and_other modelo
+turin 3 capitalized modelo
+j3 4 capitalized all_capitalized numerical_and_other modelo
+1.5 5 dot numerical_and_other cilindradas
+16v 6 capitalized all_capitalized numerical_and_other valvulas
+vvt 7 capitalized all_capitalized motor
+turin 8 capitalized versao
+s 9 capitalized all_capitalized versao
+jet 10 capitalized versao
+flex 11 capitalized combustivel
+2015 12 numerical ano
+
+fiat 1 capitalized marca
+idea 2 capitalized modelo
+essence 3 capitalized versao
+1.6 4 dot numerical_and_other cilindrada
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+e.torq 6 capitalized dot motor
+2012 7 numerical ano
+
+chevrolet 1 capitalized marca
+prisma 2 capitalized modelo
+1.4 3 dot numerical_and_other cilindradas
+spe/4 4 capitalized all_capitalized numerical_and_other versao
+lt 5 capitalized all_capitalized versao
+2015 6 numerical ano
+
+volkswagen 1 capitalized marca
+gol 2 capitalized modelo
+1.0 3 dot numerical_and_other cilindradas
+city 4 capitalized versao
+tec 5 capitalized versao
+8v 6 capitalized all_capitalized numerical_and_other valvulas
+flex 7 capitalized combustivel
+4p 8 capitalized all_capitalized numerical_and_other portas
+manual 9 capitalized cambio
+30.000km 10 capitalized all_capitalized dot numerical_and_other quilometragem
+2014 11 numerical ano
+
+chevrolet 1 capitalized marca
+onix 2 capitalized modelo
+1.0 3 dot numerical_and_other cilindradas
+lt 4 capitalized all_capitalized versao
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+manual 8 capitalized all_capitalized cambio
+2016 9 numerical ano
+
+fiat 1 capitalized all_capitalized marca
+palio 2 capitalized all_capitalized modelo
+1.0 3 dot numerical_and_other cilindradas
+fire 4 capitalized all_capitalized versao
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+2p 7 capitalized all_capitalized numerical_and_other portas
+manual 8 capitalized all_capitalized cambio
+
+jeep 1 capitalized all_capitalized marca
+renegade 2 capitalized all_capitalized modelo
+1.8 3 dot numerical_and_other cilindradas
+sport 4 capitalized all_capitalized versao
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combutivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+manual 8 capitalized all_capitalized cambio
+
+hyundai 1 capitalized all_capitalized marca
+hb20 2 capitalized all_capitalized numerical_and_other modelo
+1.0 3 dot numerical_and_other cilindradas
+comfort 4 capitalized all_capitalized versao
+12v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+manual 8 capitalized all_capitalized cambio
+
+chevrolet 1 capitalized all_capitalized marca
+classic 2 capitalized all_capitalized modelo
+1.0 3 dot numerical_and_other cilindradas
+ls 4 capitalized all_capitalized tipo
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+manual 8 capitalized all_capitalized cambio
+
+fiat 1 capitalized all_capitalized marca
+mobi 2 capitalized all_capitalized modelo
+1.0 3 dot numerical_and_other cilindradas
+evo 4 capitalized all_capitalized versao
+easy 5 capitalized all_capitalized versao
+on 6 capitalized all_capitalized versao
+8v 7 capitalized all_capitalized numerical_and_other valvulas
+flex 8 capitalized all_capitalized combustivel
+4p 9 capitalized all_capitalized numerical_and_other portas
+manual 10 capitalized all_capitalized cambio
+
+renault 1 capitalized all_capitalized marca
+clio 2 capitalized all_capitalized modelo
+1.0 3 dot numerical_and_other cilindradas
+expression 4 capitalized all_capitalized versao
+look 5 capitalized all_capitalized versao
+16v 6 capitalized all_capitalized numerical_and_other valvulas
+77cv 7 capitalized all_capitalized numerical_and_other cavalos
+4p 8 capitalized all_capitalized numerical_and_other portas
+flex 9 capitalized all_capitalized combustivel
+manual 10 capitalized all_capitalized cambio
+
+renault 1 capitalized all_capitalized marca
+sandero 2 capitalized all_capitalized modelo
+1.0 3 dot numerical_and_other cilindradas
+authentique 4 capitalized all_capitalized versao
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+77cv 6 capitalized all_capitalized numerical_and_other cavalos
+4p 7 capitalized all_capitalized numerical_and_other portas
+flex 8 capitalized all_capitalized combustivel
+manual 9 capitalized all_capitalized cambio
+
+fiat 1 capitalized marca
+uno 2 capitalized modelo
+vivace 3 capitalized versao
+1.0 4 dot numerical_and_other cilindradas
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+(flex) 6 parenthesis capitalized combustivel
+4p 7 numerical_and_other portas
+2013 8 numerical ano
+
+fiat 1 capitalized all_capitalized marca
+siena 2 capitalized all_capitalized modelo
+1.0 3 dot numerical_and_other cilindradas
+el 4 capitalized all_capitalized tipo
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+manual 8 capitalized all_capitalized cambio
+
+chevrolet 1 capitalized all_capitalized marca
+cobalt 2 capitalized all_capitalized modelo
+1.8 3 dot numerical_and_other cilindradas
+ltz 4 capitalized all_capitalized tipo
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+automã�tico 8 capitalized all_capitalized cambio
+
+nissan 1 capitalized all_capitalized marca
+march 2 capitalized all_capitalized modelo
+1.0 3 dot numerical_and_other cilindradas
+conforto 4 capitalized all_capitalized tipo
+12v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+manual 8 capitalized all_capitalized cambio
+
+hyundai 1 capitalized all_capitalized marca
+hb20 2 capitalized all_capitalized numerical_and_other modelo
+1.0 3 dot numerical_and_other cilindradas
+comfort 4 capitalized all_capitalized tipo
+12v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+manual 8 capitalized all_capitalized cambio
+
+volkswagen 1 capitalized all_capitalized marca
+voyage 2 capitalized all_capitalized modelo
+1.0 3 dot numerical_and_other cilindradas
+comfortline 4 capitalized all_capitalized tipo
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+manual 8 capitalized all_capitalized cambio
+
+fiat 1 capitalized all_capitalized marca
+strada 2 capitalized all_capitalized modelo
+1.4 3 dot numerical_and_other cilindradas
+working 4 capitalized all_capitalized versao
+cs 5 capitalized all_capitalized tipo
+8v 6 capitalized all_capitalized numerical_and_other valvulas
+flex 7 capitalized all_capitalized combustivel
+2p 8 capitalized all_capitalized numerical_and_other portas
+manual 9 capitalized all_capitalized cambio
+
+renault 1 capitalized all_capitalized marca
+logan 2 capitalized all_capitalized modelo
+1.0 3 dot numerical_and_other cilindradas
+authentique 4 capitalized all_capitalized versao
+plus 5 capitalized all_capitalized versao
+16v 6 capitalized all_capitalized numerical_and_other valvulas
+77cv 7 capitalized all_capitalized numerical_and_other cavalos
+4p 8 capitalized all_capitalized numerical_and_other portas
+flex 9 capitalized all_capitalized combustivel
+manual 10 capitalized all_capitalized cambio
+
+chevrolet 1 capitalized all_capitalized marca
+prisma 2 capitalized all_capitalized modelo
+1.0 3 dot numerical_and_other cilindradas
+lt 4 capitalized all_capitalized tipo
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+manual 8 capitalized all_capitalized cambio
+
+chevrolet 1 capitalized all_capitalized marca
+onix 2 capitalized all_capitalized modelo
+1.0 3 dot numerical_and_other cilindradas
+ls 4 capitalized all_capitalized tipo
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+manual 8 capitalized all_capitalized cambio
+
+toyota 1 capitalized all_capitalized marca
+etios 2 capitalized all_capitalized versao
+1.3 3 dot numerical_and_other cilindradas
+x 4 capitalized all_capitalized tipo
+flex 5 capitalized all_capitalized combustivel
+16v 6 capitalized all_capitalized numerical_and_other valvulas
+4p 7 capitalized all_capitalized numerical_and_other portas
+automã�tico 8 capitalized all_capitalized cambio
+
+volkswagen 1 capitalized marca
+voyage 2 capitalized modelo
+(g6) 3 parenthesis capitalized all_capitalized numerical_and_other geracao
+1.0 4 dot numerical_and_other cilindradas
+tec 5 capitalized all_capitalized motor
+total 6 capitalized combustivel
+flex 7 capitalized combustivel
+2013 8 numerical ano
+
+chevrolet 1 capitalized all_capitalized marca
+onix 2 capitalized all_capitalized modelo
+1.4 3 dot numerical_and_other cilindradas
+ltz 4 capitalized all_capitalized versao
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+automã�tico 8 capitalized all_capitalized cambio
+
+fiat 1 capitalized all_capitalized marca
+strada 2 capitalized all_capitalized modelo
+1.8 3 dot numerical_and_other cilindradas
+adventure 4 capitalized all_capitalized versao
+locker 5 capitalized all_capitalized versao
+16v 6 capitalized all_capitalized numerical_and_other valvulas
+130cv 7 capitalized all_capitalized numerical_and_other cavalos
+3p 8 capitalized all_capitalized numerical_and_other portas
+flex 9 capitalized all_capitalized combustivel
+manual 10 capitalized all_capitalized cambio
+
+peugeot 1 capitalized all_capitalized marca
+308 2 numerical modelo
+1.6 3 dot numerical_and_other cilindradas
+allure 4 capitalized all_capitalized versao
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+115cv 6 capitalized all_capitalized numerical_and_other cavalos
+4p 7 capitalized all_capitalized numerical_and_other portas
+flex 8 capitalized all_capitalized combustivel
+manual 9 capitalized all_capitalized cambio
+
+fiat 1 capitalized all_capitalized marca
+toro 2 capitalized all_capitalized modelo
+1.8 3 dot numerical_and_other cilindradas
+freedom 4 capitalized all_capitalized versao
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+
+ford 1 capitalized all_capitalized marca
+ecosport 2 capitalized all_capitalized modelo
+1.6 3 dot numerical_and_other cilindradas
+freestyle 4 capitalized all_capitalized versao
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+automatizado 8 capitalized all_capitalized cambio
+
+jeep 1 capitalized all_capitalized marca
+renegade 2 capitalized all_capitalized modelo
+1.8 3 dot numerical_and_other cilindradas
+longitude 4 capitalized all_capitalized modelo
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+automã�tico 8 capitalized all_capitalized cambio
+
+renault 1 capitalized all_capitalized marca
+duster 2 capitalized all_capitalized modelo
+1.6 3 dot numerical_and_other cilindradas
+dynamique 4 capitalized all_capitalized versao
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+manual 8 capitalized all_capitalized cambio
+
+renault 1 capitalized all_capitalized marca
+fluence 2 capitalized all_capitalized modelo
+2.0 3 dot numerical_and_other cilindradas
+dynamique 4 capitalized all_capitalized versao
+plus 5 capitalized all_capitalized versao
+16v 6 capitalized all_capitalized numerical_and_other valvulas
+flex 7 capitalized all_capitalized combustivel
+4p 8 capitalized all_capitalized numerical_and_other portas
+automã�tico 9 capitalized all_capitalized cambio
+
+toyota 1 capitalized all_capitalized marca
+hilux 2 capitalized all_capitalized modelo
+2.7 3 dot numerical_and_other cilindradas
+sr 4 capitalized all_capitalized motor
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+picape 6 capitalized all_capitalized versao
+flex 7 capitalized all_capitalized combustivel
+4p 8 capitalized all_capitalized numerical_and_other portas
+automã�tico 9 capitalized all_capitalized cambio
+
+hyundai 1 capitalized all_capitalized marca
+tucson 2 capitalized all_capitalized modelo
+2.0 3 dot numerical_and_other cilindradas
+gls 4 capitalized all_capitalized tipo
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+automã�tico 8 capitalized all_capitalized cambio
+
+fiat 1 capitalized marca
+siena 2 capitalized modelo
+el 3 capitalized all_capitalized versao
+1.0 4 dot numerical_and_other cilindradas
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+(flex) 6 parenthesis capitalized flex
+2012 7 numerical ano
+
+audi 1 capitalized all_capitalized marca
+a3 2 capitalized all_capitalized numerical_and_other modelo
+1.8 3 dot numerical_and_other cilindradas
+tfsi 4 capitalized all_capitalized motor
+sport 5 capitalized all_capitalized versao
+180cv 6 capitalized all_capitalized numerical_and_other cavalos
+16v 7 capitalized all_capitalized numerical_and_other valvulas
+gasolina 8 capitalized all_capitalized combustivel
+2p 9 capitalized all_capitalized numerical_and_other portas
+s-tronic 10 capitalized all_capitalized cambio
+
+volkswagen 1 capitalized all_capitalized marca
+kombi 2 capitalized all_capitalized modelo
+1.4 3 dot numerical_and_other cilindradas
+standard 4 capitalized all_capitalized versao
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+manual 8 capitalized all_capitalized cambio
+
+volkswagen 1 capitalized all_capitalized marca
+fox 2 capitalized all_capitalized modelo
+1.6 3 dot numerical_and_other cilindradas
+8v 4 capitalized all_capitalized numerical_and_other valvulas
+flex 5 capitalized all_capitalized combustivel
+4p 6 capitalized all_capitalized numerical_and_other portas
+i-motion 7 capitalized all_capitalized cambio
+
+fiat 1 capitalized all_capitalized marca
+grand 2 capitalized all_capitalized modelo
+siena 3 capitalized all_capitalized modelo
+1.6 4 dot numerical_and_other cilindradas
+essence 5 capitalized all_capitalized versao
+16v 6 capitalized all_capitalized numerical_and_other valvulas
+flex 7 capitalized all_capitalized combustivel
+4p 8 capitalized all_capitalized numerical_and_other portas
+dualogic 9 capitalized all_capitalized cambio
+
+fiat 1 capitalized all_capitalized marca
+linea 2 capitalized all_capitalized modelo
+1.8 3 dot numerical_and_other cilindradas
+essence 4 capitalized all_capitalized versao
+dualogic 5 capitalized all_capitalized cambio
+16v 6 capitalized all_capitalized numerical_and_other valvulas
+130cv 7 capitalized all_capitalized numerical_and_other cavalos
+4p 8 capitalized all_capitalized numerical_and_other portas
+flex 9 capitalized all_capitalized combustivel
+
+ford 1 capitalized all_capitalized marca
+ecosport 2 capitalized all_capitalized modelo
+2.0 3 dot numerical_and_other cilindradas
+titanium 4 capitalized all_capitalized versao
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+powershift 8 capitalized all_capitalized cambio
+
+volkswagen 1 capitalized all_capitalized marca
+polo 2 capitalized all_capitalized modelo
+1.6 3 dot numerical_and_other cilindradas
+sportline 4 capitalized all_capitalized versao
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+i-motion 8 capitalized all_capitalized cambio
+
+fiat 1 capitalized all_capitalized marca
+palio 2 capitalized all_capitalized modelo
+weekend 3 capitalized all_capitalized modelo
+1.8 4 dot numerical_and_other cilindradas
+adventure 5 capitalized all_capitalized versao
+16v 6 capitalized all_capitalized numerical_and_other valvulas
+flex 7 capitalized all_capitalized combustivel
+4p 8 capitalized all_capitalized numerical_and_other portas
+dualogic 9 capitalized all_capitalized cambio
+
+ford 1 capitalized all_capitalized marca
+ecosport 2 capitalized all_capitalized modelo
+2.0 3 dot numerical_and_other cilindradas
+se 4 capitalized all_capitalized tipo
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+powershift 8 capitalized all_capitalized cambio
+
+volkswagen 1 capitalized all_capitalized marca
+crossfox 2 capitalized all_capitalized modelo
+1.6 3 dot numerical_and_other cilindradas
+8v 4 capitalized all_capitalized numerical_and_other valvulas
+i-motion 5 capitalized all_capitalized cambio
+101cv 6 capitalized all_capitalized numerical_and_other cavalos
+flex 7 capitalized all_capitalized combustivel
+4p 8 capitalized all_capitalized numerical_and_other portas
+
+chevrolet 1 capitalized marca
+celta 2 capitalized modelo
+ls 3 capitalized all_capitalized versao
+1.0 4 dot numerical_and_other motor
+(flex) 5 parenthesis capitalized combustivel
+2p 6 numerical_and_other portas
+2014 7 numerical ano
+
+mitsubishi 1 capitalized all_capitalized marca
+lancer 2 capitalized all_capitalized modelo
+2.0 3 dot numerical_and_other cilindradas
+16v 4 capitalized all_capitalized numerical_and_other valvulas
+sedan 5 capitalized all_capitalized versao
+gasolina 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+manual 8 capitalized all_capitalized cambio
+
+mercedes-benz 1 capitalized all_capitalized marca
+gla250 2 capitalized all_capitalized numerical_and_other modelo
+2.0 3 dot numerical_and_other cilindradas
+turbo 4 capitalized all_capitalized versao
+4matic 5 capitalized all_capitalized numerical_and_other tracao
+211cv 6 capitalized all_capitalized numerical_and_other cavalos
+4p 7 capitalized all_capitalized numerical_and_other portas
+gasolina 8 capitalized all_capitalized combustivel
+automã�tico 9 capitalized all_capitalized cambio
+
+mercedes-benz 1 capitalized all_capitalized marca
+gla200 2 capitalized all_capitalized numerical_and_other modelo
+1.6 3 dot numerical_and_other cilindradas
+advance 4 capitalized all_capitalized versao
+turbo 5 capitalized all_capitalized versao
+16v 6 capitalized all_capitalized numerical_and_other valvulas
+gasolina 7 capitalized all_capitalized combustivel
+4p 8 capitalized all_capitalized numerical_and_other portas
+automã�tico 9 capitalized all_capitalized cambio
+
+mercedes-benz 1 capitalized all_capitalized marca
+a200 2 capitalized all_capitalized numerical_and_other modelo
+1.6 3 dot numerical_and_other cilindradas
+turbo 4 capitalized all_capitalized versao
+156cv 5 capitalized all_capitalized numerical_and_other cavalos
+4p 6 capitalized all_capitalized numerical_and_other portas
+flex 7 capitalized all_capitalized combustivel
+automã�tico 8 capitalized all_capitalized cambio
+
+kia 1 capitalized all_capitalized marca
+soul 2 capitalized all_capitalized modelo
+1.6 3 dot numerical_and_other cilindradas
+ex 4 capitalized all_capitalized tipo
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+automã�tico 8 capitalized all_capitalized cambio
+
+audi 1 capitalized all_capitalized marca
+a5 2 capitalized all_capitalized numerical_and_other modelo
+1.8 3 dot numerical_and_other cilindradas
+tfsi 4 capitalized all_capitalized motor
+ambiente 5 capitalized all_capitalized versao
+16v 6 capitalized all_capitalized numerical_and_other valvulas
+sportback 7 capitalized all_capitalized versao
+gasolina 8 capitalized all_capitalized combustivel
+4p 9 capitalized all_capitalized numerical_and_other portas
+automã�tico 10 capitalized all_capitalized cambio
+
+audi 1 capitalized all_capitalized marca
+q3 2 capitalized all_capitalized numerical_and_other modelo
+2.0 3 dot numerical_and_other cilindradas
+tfsi 4 capitalized all_capitalized motor
+ambiente 5 capitalized all_capitalized versao
+16v 6 capitalized all_capitalized numerical_and_other valvulas
+gasolina 7 capitalized all_capitalized combustivel
+4p 8 capitalized all_capitalized numerical_and_other portas
+s-tronic 9 capitalized all_capitalized cambio
+4x4 10 capitalized all_capitalized numerical_and_other tracao
+turbo 11 capitalized all_capitalized versao
+
+citroen 1 capitalized all_capitalized marca
+aircross 2 capitalized all_capitalized modelo
+1.6 3 dot numerical_and_other cilindradas
+exclusive 4 capitalized all_capitalized versao
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+automã�tico 8 capitalized all_capitalized cambio
+
+citroen 1 capitalized all_capitalized marca
+c3 2 capitalized all_capitalized numerical_and_other modelo
+1.5 3 dot numerical_and_other cilindradas
+origine 4 capitalized all_capitalized versao
+8v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+manual 8 capitalized all_capitalized cambio
+
+citroen 1 capitalized all_capitalized marca
+aircross 2 capitalized all_capitalized modelo
+1.6 3 dot numerical_and_other cilindradas
+exclusive 4 capitalized all_capitalized versao
+16v 5 capitalized all_capitalized numerical_and_other valvulas
+flex 6 capitalized all_capitalized combustivel
+4p 7 capitalized all_capitalized numerical_and_other portas
+automã�tico 8 capitalized all_capitalized cambio
+
