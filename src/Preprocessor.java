@@ -1,6 +1,8 @@
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
@@ -16,10 +18,48 @@ public class Preprocessor {
 	public static final String PARENTHESIS_FEATURE = "parenthesis";
 
 	
-	public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException{
+	public static void main(String[] args) throws IOException{
 		
 		Preprocessor pro = new Preprocessor();
 		pro.generateBaseFromRawBase("base", "baseFile");
+		
+		File rawTests[] = new File("test/raw").listFiles();
+		
+		int i=0;
+		for(File rawTest : rawTests){
+			System.out.println(" lol" + rawTest.getAbsolutePath());
+			ArrayList<ArrayList<String>> ar=  new ArrayList<ArrayList<String>>();
+			
+			Scanner in = new Scanner(rawTest);
+			String line = in.nextLine();
+			
+			if(line.length() > 0){
+				
+				String words[] = line.split(" ");
+				
+				for(int x=0;x < words.length;x++){
+					ar.add(new ArrayList<String>());
+					ar.get(x).add(words[x]);
+				}
+				
+				ar = pro.processInstance(ar);
+				
+				FileWriter fw = new FileWriter("test/processed/" + (i++));
+				
+				
+				for(int x=0;x<ar.size();x++){	
+					for(int y=0;y<ar.get(x).size();y++){
+						if(y != 0) fw.write(" ");
+						fw.write(ar.get(x).get(y));
+					}
+					fw.write("\n");
+				}
+				fw.flush();
+				fw.close();
+				
+			}
+			
+		}
 		
 	}
 
@@ -86,16 +126,7 @@ public class Preprocessor {
 		return ar;
 	}
 	
-	/*
-	 * input should in this format:
-	 * 
-	 * feature1 label1
-	 * feature2 label2
-	 * feature3 label4
-	 * ...
-	 * featurex labelx
-	 * 
-	 */	
+	
 	public ArrayList<ArrayList<String>> processInstance(ArrayList<ArrayList<String>> ar){
 
 		addNumericalFeature(ar);
